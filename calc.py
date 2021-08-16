@@ -20,4 +20,3 @@ def div(a, b):
         raise ValueError('Can not divide with zero')
     else:
         return a / b
-
