@@ -1,7 +1,7 @@
 
 def lowerStr():
     """Lower String"""
-    return "manan"
+    return "Param"
 
 
 def upperStr():
